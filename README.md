@@ -1,2 +1,3 @@
 # neoenergia-projetos
-site pee
+
+Protótipo funcional para submissão e análise de projetos elétricos.
